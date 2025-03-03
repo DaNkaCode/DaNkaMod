@@ -1,0 +1,9 @@
+{
+     "type": "minecraft:smelting",
+     "ingredient": {
+       "item": "dankamod:raw_frosty_metal"
+     },
+     "result": "dankamod:frosty_metal,
+     "experience": 0.7,
+     "cookingtime": 200
+}
