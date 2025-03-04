@@ -1,4 +1,4 @@
-package com.example.mod;
+package net.danka.dankamod;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.Material;
